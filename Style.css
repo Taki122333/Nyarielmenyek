@@ -2,3 +2,38 @@ h1{
    padding-left: 50px;
    
 }
+
+h2{
+   margin-bottom: 1em;
+   text-decoration: grey;
+   text-decoration: underline 2px;
+}
+
+#test{
+   margin-left: 25px;
+   margin-right: 25px;
+   font-family: 'Optica' ;
+   font-size: 20px;
+
+}
+
+.image-container img {
+   transition: transform 0.3s ease-in-out;
+}
+
+.image-container img:hover {
+   transform: scale(1.2);
+}
+
+.vonal{
+   border: 2px solid grey;
+   height: 3px;
+   margin-bottom: 18px;
+   margin-top: 18px;
+}
+
+.m-right-left{
+   margin-left: 15px;
+   margin-right: 15px;
+
+}
